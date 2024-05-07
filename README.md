@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sure, here's the format you requested:<br><br>---<br><br>🛒 I am currently working on an ecommerce solution.<br><br>🤝 I am looking to collaborate on React, Vue, or Node.js projects.<br><br>🚀 I am looking for help with animation libraries.<br><br>📚 I am currently learning new technologies to enhance my skills.<br><br>❓ Ask me about JavaScript, MERN stack, or web development in general.<br><br>🎉 Fun fact: I once built a mini JavaScript game in a weekend!<br>
+🛒 I am currently working on an ecommerce solution.<br><br>🤝 I am looking to collaborate on React, Vue, or Node.js projects.<br><br>🚀 I am looking for help with animation libraries.<br><br>📚 I am currently learning new technologies to enhance my skills.<br><br>❓ Ask me about JavaScript, MERN stack, or web development in general.<br><br>🎉 Fun fact: I once built a mini JavaScript game in a weekend!<br>
 
 
 ## 🌐 Socials:
